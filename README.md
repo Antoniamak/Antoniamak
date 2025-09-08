@@ -1,5 +1,5 @@
 # ✨ About Me:
-### Hi hi! My name is Antonia Makridakis 😊<br><br>📄 Documentation Specialist at St. Charles Trading<br>📚 Currently attending NEIU for a masters in computer science<br>🕙 Previously an administrative assistant at Aflac<br>📫 How to reach me: makridakisantonia@gmail.com<br>
+### Hi hi! My name is Antonia Makridakis 😊<br/><br/>📄 Documentation Specialist at St. Charles Trading<br/>📚 Currently attending NEIU for a masters in computer science<br/>🕙 Previously an administrative assistant at Aflac<br/>📫 How to reach me: makridakisantonia@gmail.com<br/>
 
 
 ## 🌐 Socials:
